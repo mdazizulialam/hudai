@@ -2,3 +2,4 @@ this is one.txt
 added some text
  added some extra feature
  test for conflict
+
